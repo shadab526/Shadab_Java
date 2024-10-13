@@ -4,19 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="356cb5cd-5c88-46b8-9589-92e07b2ce61f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Shadab_Java.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java_Practice/ex_12_Oct_2024/Q001_AddTwoNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java_Practice/ex_12_Oct_2024/Q002_SumOfThreeNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java_Practice/ex_12_Oct_2024/Q003_SwapTowNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java_Practice/ex_12_Oct_2024/Q004_SwapTwoNum_wuo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java_Practice/ex_12_Oct_2024/Q005_ConvertInegerToBinary.java" afterDir="false" />
+    <list default="true" id="356cb5cd-5c88-46b8-9589-92e07b2ce61f" name="Changes" comment="12 Oct 2024">
+      <change afterPath="$PROJECT_DIR$/../ATB9xJavaPrograme/src/Oct/ex_03_10_24/Lab001.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PhysicsWallahJavaPrograming/src/Loops/ForLoops/Ex_001_SumOfNatualNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PhysicsWallahJavaPrograming/src/Loops/WhileLoops/Ex_001_PrintNatural.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PhysicsWallahJavaPrograming/src/Loops/WhileLoops/Ex_002_SumOfNaturalNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ATB9xJavaPrograme/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ATB9xJavaPrograme/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ATB9xJavaPrograme/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ATB9xJavaPrograme/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,11 +27,11 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../ATB9xJavaPrograme" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 7
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
   <component name="ProjectId" id="2nJC5jyX06tarwToVjwyDJImxAi" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -56,6 +52,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/HP/IdeaProjects/Shadab_Java",
     "onboarding.tips.debug.path": "C:/Users/HP/IdeaProjects/Shadab_Java/src/Main.java"
   }
 }]]></component>
@@ -125,6 +122,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="ATB9xJavaPrograme" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="ATB9xJavaPrograme" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Application.Q005_ConvertInegerToBinary" />
@@ -144,6 +154,19 @@
       <option name="presentableId" value="Default" />
       <updated>1728681610731</updated>
     </task>
+    <task id="LOCAL-00001" summary="12 Oct 2024">
+      <option name="closed" value="true" />
+      <created>1728691043900</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1728691043900</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="12 Oct 2024" />
+    <option name="LAST_COMMIT_MESSAGE" value="12 Oct 2024" />
   </component>
 </project>
