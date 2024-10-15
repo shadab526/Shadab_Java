@@ -4,15 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="356cb5cd-5c88-46b8-9589-92e07b2ce61f" name="Changes" comment="12 Oct 2024">
-      <change afterPath="$PROJECT_DIR$/../ATB9xJavaPrograme/src/Oct/ex_03_10_24/Lab001.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PhysicsWallahJavaPrograming/src/Loops/ForLoops/Ex_001_SumOfNatualNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PhysicsWallahJavaPrograming/src/Loops/WhileLoops/Ex_001_PrintNatural.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PhysicsWallahJavaPrograming/src/Loops/WhileLoops/Ex_002_SumOfNaturalNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ATB9xJavaPrograme/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ATB9xJavaPrograme/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ATB9xJavaPrograme/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ATB9xJavaPrograme/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+    <list default="true" id="356cb5cd-5c88-46b8-9589-92e07b2ce61f" name="Changes" comment="12 Oct 2024 Interview Questions practice">
+      <change afterPath="$PROJECT_DIR$/../PhysicsWallahJavaPrograming/src/If_Else/ex_001_EvenOrOdd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PhysicsWallahJavaPrograming/src/If_Else/ex_002_DivisibleBy5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PhysicsWallahJavaPrograming/src/If_Else/ex_003_FindLeapYear.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PhysicsWallahJavaPrograming/src/If_Else/ex_004_absoluteValue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PhysicsWallahJavaPrograming/src/If_Else/ex_005_findProfitAndLoss.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PhysicsWallahJavaPrograming/src/If_Else/ex_006_ariaOfRectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java_Practice/ex_13_Oct_2024/Q006_Revision_12_Oct.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java_Practice/ex_13_Oct_2024/Q007_Revision.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java_Practice/ex_14_Oct_2024/Q008_FindFactorial.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Java_Practice/ex_13_Oct_2024/Q001_Revision_12_Oct.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,7 +30,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../ATB9xJavaPrograme" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../PhysicsWallahJavaPrograming" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 7
@@ -43,11 +46,20 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.Q001_AddTwoNumber.executor": "Run",
+    "Application.Q001_Revision_12_Oct.executor": "Run",
     "Application.Q001_SumOfThreeNumber.executor": "Run",
+    "Application.Q002_Revision.executor": "Run",
     "Application.Q002_SumOfThreeNumber.executor": "Run",
     "Application.Q003_SwapTowNumber.executor": "Run",
     "Application.Q004_SwapTwoNum_wuo.executor": "Run",
     "Application.Q005_ConvertInegerToBinary.executor": "Run",
+    "Application.Q007_Revision.executor": "Run",
+    "Application.ex_001_EvenOrOdd.executor": "Run",
+    "Application.ex_002_DivisibleBy5.executor": "Run",
+    "Application.ex_003_FindLeapYear.executor": "Run",
+    "Application.ex_004_absoluteValue.executor": "Run",
+    "Application.ex_005_findProfitAndLoss.executor": "Run",
+    "Application.ex_006_ariaOfRectangle.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
@@ -56,13 +68,13 @@
     "onboarding.tips.debug.path": "C:/Users/HP/IdeaProjects/Shadab_Java/src/Main.java"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Q005_ConvertInegerToBinary">
-    <configuration name="Q001_AddTwoNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Java_Practice.ex_12_Oct_2024.Q001_AddTwoNumber" />
-      <module name="Shadab_Java" />
+  <component name="RunManager" selected="Application.ex_006_ariaOfRectangle">
+    <configuration name="ex_002_DivisibleBy5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="If_Else.ex_002_DivisibleBy5" />
+      <module name="PhysicsWallahJavaPrograming" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Java_Practice.ex_12_Oct_2024.*" />
+          <option name="PATTERN" value="If_Else.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -70,12 +82,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q002_SumOfThreeNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Java_Practice.ex_12_Oct_2024.Q002_SumOfThreeNumber" />
-      <module name="Shadab_Java" />
+    <configuration name="ex_003_FindLeapYear" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="If_Else.ex_003_FindLeapYear" />
+      <module name="PhysicsWallahJavaPrograming" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Java_Practice.ex_12_Oct_2024.*" />
+          <option name="PATTERN" value="If_Else.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -83,12 +95,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q003_SwapTowNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Java_Practice.ex_12_Oct_2024.Q003_SwapTowNumber" />
-      <module name="Shadab_Java" />
+    <configuration name="ex_004_absoluteValue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="If_Else.ex_004_absoluteValue" />
+      <module name="PhysicsWallahJavaPrograming" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Java_Practice.ex_12_Oct_2024.*" />
+          <option name="PATTERN" value="If_Else.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -96,12 +108,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q004_SwapTwoNum_wuo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Java_Practice.ex_12_Oct_2024.Q004_SwapTwoNum_wuo" />
-      <module name="Shadab_Java" />
+    <configuration name="ex_005_findProfitAndLoss" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="If_Else.ex_005_findProfitAndLoss" />
+      <module name="PhysicsWallahJavaPrograming" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Java_Practice.ex_12_Oct_2024.*" />
+          <option name="PATTERN" value="If_Else.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -109,12 +121,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q005_ConvertInegerToBinary" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Java_Practice.ex_12_Oct_2024.Q005_ConvertInegerToBinary" />
-      <module name="Shadab_Java" />
+    <configuration name="ex_006_ariaOfRectangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="If_Else.ex_006_ariaOfRectangle" />
+      <module name="PhysicsWallahJavaPrograming" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Java_Practice.ex_12_Oct_2024.*" />
+          <option name="PATTERN" value="If_Else.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -137,11 +149,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Q005_ConvertInegerToBinary" />
-        <item itemvalue="Application.Q004_SwapTwoNum_wuo" />
-        <item itemvalue="Application.Q003_SwapTowNumber" />
-        <item itemvalue="Application.Q002_SumOfThreeNumber" />
-        <item itemvalue="Application.Q001_AddTwoNumber" />
+        <item itemvalue="Application.ex_006_ariaOfRectangle" />
+        <item itemvalue="Application.ex_005_findProfitAndLoss" />
+        <item itemvalue="Application.ex_004_absoluteValue" />
+        <item itemvalue="Application.ex_003_FindLeapYear" />
+        <item itemvalue="Application.ex_002_DivisibleBy5" />
       </list>
     </recent_temporary>
   </component>
@@ -162,11 +174,20 @@
       <option name="project" value="LOCAL" />
       <updated>1728691043900</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="12 Oct 2024 Interview Questions practice">
+      <option name="closed" value="true" />
+      <created>1728777776723</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1728777776723</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="12 Oct 2024" />
-    <option name="LAST_COMMIT_MESSAGE" value="12 Oct 2024" />
+    <MESSAGE value="12 Oct 2024 Interview Questions practice" />
+    <option name="LAST_COMMIT_MESSAGE" value="12 Oct 2024 Interview Questions practice" />
   </component>
 </project>
