@@ -4,18 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="356cb5cd-5c88-46b8-9589-92e07b2ce61f" name="Changes" comment="12 Oct 2024 Interview Questions practice">
-      <change afterPath="$PROJECT_DIR$/../PhysicsWallahJavaPrograming/src/If_Else/ex_001_EvenOrOdd.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PhysicsWallahJavaPrograming/src/If_Else/ex_002_DivisibleBy5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PhysicsWallahJavaPrograming/src/If_Else/ex_003_FindLeapYear.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PhysicsWallahJavaPrograming/src/If_Else/ex_004_absoluteValue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PhysicsWallahJavaPrograming/src/If_Else/ex_005_findProfitAndLoss.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PhysicsWallahJavaPrograming/src/If_Else/ex_006_ariaOfRectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java_Practice/ex_13_Oct_2024/Q006_Revision_12_Oct.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java_Practice/ex_13_Oct_2024/Q007_Revision.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java_Practice/ex_14_Oct_2024/Q008_FindFactorial.java" afterDir="false" />
+    <list default="true" id="356cb5cd-5c88-46b8-9589-92e07b2ce61f" name="Changes" comment="15 Oct 2024 Interview Questions practice">
+      <change afterPath="$PROJECT_DIR$/../ATB9xJavaPrograme/src/Task/ex_15_10_2024/Lab004_FindLargest3Ternary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ATB9xJavaPrograme/src/Task/ex_15_10_2024/Lab005_Increament.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java_Practice/ex_13_Oct_2024/Q001_Revision_12_Oct.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,7 +22,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../PhysicsWallahJavaPrograming" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../ATB9xJavaPrograme" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 7
@@ -45,6 +37,8 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Lab004_FindLargest3Ternary.executor": "Run",
+    "Application.Lab005_Increament.executor": "Run",
     "Application.Q001_AddTwoNumber.executor": "Run",
     "Application.Q001_Revision_12_Oct.executor": "Run",
     "Application.Q001_SumOfThreeNumber.executor": "Run",
@@ -68,13 +62,13 @@
     "onboarding.tips.debug.path": "C:/Users/HP/IdeaProjects/Shadab_Java/src/Main.java"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.ex_006_ariaOfRectangle">
-    <configuration name="ex_002_DivisibleBy5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="If_Else.ex_002_DivisibleBy5" />
-      <module name="PhysicsWallahJavaPrograming" />
+  <component name="RunManager" selected="Application.Lab006_Dicreament">
+    <configuration name="Lab004_FindLargest3Ternary" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Task.ex_15_10_2024.Lab004_FindLargest3Ternary" />
+      <module name="ATB9xJavaPrograme" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="If_Else.*" />
+          <option name="PATTERN" value="Task.ex_15_10_2024.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -82,12 +76,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ex_003_FindLeapYear" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="If_Else.ex_003_FindLeapYear" />
-      <module name="PhysicsWallahJavaPrograming" />
+    <configuration name="Lab005_Increament" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Task.ex_15_10_2024.Lab005_Increament" />
+      <module name="ATB9xJavaPrograme" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="If_Else.*" />
+          <option name="PATTERN" value="Task.ex_15_10_2024.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -95,12 +89,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ex_004_absoluteValue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="If_Else.ex_004_absoluteValue" />
-      <module name="PhysicsWallahJavaPrograming" />
+    <configuration name="Lab006_Dicreament" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Task.ex_15_10_2024.Lab006_Dicreament" />
+      <module name="ATB9xJavaPrograme" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="If_Else.*" />
+          <option name="PATTERN" value="Task.ex_15_10_2024.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -149,11 +143,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Lab006_Dicreament" />
+        <item itemvalue="Application.Lab005_Increament" />
+        <item itemvalue="Application.Lab004_FindLargest3Ternary" />
         <item itemvalue="Application.ex_006_ariaOfRectangle" />
         <item itemvalue="Application.ex_005_findProfitAndLoss" />
-        <item itemvalue="Application.ex_004_absoluteValue" />
-        <item itemvalue="Application.ex_003_FindLeapYear" />
-        <item itemvalue="Application.ex_002_DivisibleBy5" />
       </list>
     </recent_temporary>
   </component>
@@ -182,12 +176,21 @@
       <option name="project" value="LOCAL" />
       <updated>1728777776723</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="15 Oct 2024 Interview Questions practice">
+      <option name="closed" value="true" />
+      <created>1729025886117</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1729025886117</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="12 Oct 2024" />
     <MESSAGE value="12 Oct 2024 Interview Questions practice" />
-    <option name="LAST_COMMIT_MESSAGE" value="12 Oct 2024 Interview Questions practice" />
+    <MESSAGE value="15 Oct 2024 Interview Questions practice" />
+    <option name="LAST_COMMIT_MESSAGE" value="15 Oct 2024 Interview Questions practice" />
   </component>
 </project>
