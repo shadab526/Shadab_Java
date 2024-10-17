@@ -4,14 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="356cb5cd-5c88-46b8-9589-92e07b2ce61f" name="Changes" comment="15 Oct 2024 Task prob">
-      <change afterPath="$PROJECT_DIR$/../ATB9xJavaPrograme/src/Task/ex_17_10_24/Lab007_GradeCalculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ATB9xJavaPrograme/src/Task/ex_17_10_24/Lab008_TriangleClassifier.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ATB9xJavaPrograme/src/Task/ex_15_10_2024/Lab004_FindLargest3Ternary.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ATB9xJavaPrograme/src/Task/ex_15_10_24/Lab004_FindLargest3Ternary.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ATB9xJavaPrograme/src/Task/ex_15_10_2024/Lab005_Increament.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ATB9xJavaPrograme/src/Task/ex_15_10_24/Lab005_Increament.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ATB9xJavaPrograme/src/Task/ex_15_10_2024/Lab006_Dicreament.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ATB9xJavaPrograme/src/Task/ex_15_10_24/Lab006_Dicreament.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="356cb5cd-5c88-46b8-9589-92e07b2ce61f" name="Changes" comment="17 Oct 2024 Task prob" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -44,6 +37,7 @@
     "Application.Lab005_Increament.executor": "Run",
     "Application.Lab006_Dicreament.executor": "Run",
     "Application.Lab007_GradeCalculator.executor": "Run",
+    "Application.Lab008_TriangleClassifier.executor": "Run",
     "Application.Q001_AddTwoNumber.executor": "Run",
     "Application.Q001_Revision_12_Oct.executor": "Run",
     "Application.Q001_SumOfThreeNumber.executor": "Run",
@@ -67,22 +61,9 @@
     "onboarding.tips.debug.path": "C:/Users/HP/IdeaProjects/Shadab_Java/src/Main.java"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Lab008_TriangleClassifier">
+  <component name="RunManager" selected="Application.Q009">
     <configuration name="Lab004_FindLargest3Ternary" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Task.ex_15_10_24.Lab004_FindLargest3Ternary" />
-      <module name="ATB9xJavaPrograme" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Task.ex_15_10_24.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Lab005_Increament" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Task.ex_15_10_24.Lab005_Increament" />
       <module name="ATB9xJavaPrograme" />
       <extension name="coverage">
         <pattern>
@@ -133,6 +114,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Q009" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java_Practice.ex_14_Oct_2024.Q009" />
+      <module name="Shadab_Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Java_Practice.ex_14_Oct_2024.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="JetRunConfigurationType">
       <module name="ATB9xJavaPrograme" />
       <method v="2">
@@ -148,11 +142,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Q009" />
         <item itemvalue="Application.Lab008_TriangleClassifier" />
         <item itemvalue="Application.Lab007_GradeCalculator" />
         <item itemvalue="Application.Lab004_FindLargest3Ternary" />
         <item itemvalue="Application.Lab006_Dicreament" />
-        <item itemvalue="Application.Lab005_Increament" />
       </list>
     </recent_temporary>
   </component>
@@ -197,7 +191,15 @@
       <option name="project" value="LOCAL" />
       <updated>1729027911284</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="17 Oct 2024 Task prob">
+      <option name="closed" value="true" />
+      <created>1729200964133</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1729200964133</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -205,6 +207,7 @@
     <MESSAGE value="12 Oct 2024 Interview Questions practice" />
     <MESSAGE value="15 Oct 2024 Interview Questions practice" />
     <MESSAGE value="15 Oct 2024 Task prob" />
-    <option name="LAST_COMMIT_MESSAGE" value="15 Oct 2024 Task prob" />
+    <MESSAGE value="17 Oct 2024 Task prob" />
+    <option name="LAST_COMMIT_MESSAGE" value="17 Oct 2024 Task prob" />
   </component>
 </project>
