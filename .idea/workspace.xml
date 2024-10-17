@@ -4,9 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="356cb5cd-5c88-46b8-9589-92e07b2ce61f" name="Changes" comment="15 Oct 2024 Interview Questions practice">
-      <change afterPath="$PROJECT_DIR$/../ATB9xJavaPrograme/src/Task/ex_15_10_2024/Lab004_FindLargest3Ternary.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ATB9xJavaPrograme/src/Task/ex_15_10_2024/Lab005_Increament.java" afterDir="false" />
+    <list default="true" id="356cb5cd-5c88-46b8-9589-92e07b2ce61f" name="Changes" comment="15 Oct 2024 Task prob">
+      <change afterPath="$PROJECT_DIR$/../ATB9xJavaPrograme/src/Task/ex_17_10_24/Lab007_GradeCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ATB9xJavaPrograme/src/Task/ex_17_10_24/Lab008_TriangleClassifier.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ATB9xJavaPrograme/src/Task/ex_15_10_2024/Lab004_FindLargest3Ternary.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ATB9xJavaPrograme/src/Task/ex_15_10_24/Lab004_FindLargest3Ternary.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ATB9xJavaPrograme/src/Task/ex_15_10_2024/Lab005_Increament.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ATB9xJavaPrograme/src/Task/ex_15_10_24/Lab005_Increament.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ATB9xJavaPrograme/src/Task/ex_15_10_2024/Lab006_Dicreament.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ATB9xJavaPrograme/src/Task/ex_15_10_24/Lab006_Dicreament.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -39,6 +42,8 @@
   "keyToString": {
     "Application.Lab004_FindLargest3Ternary.executor": "Run",
     "Application.Lab005_Increament.executor": "Run",
+    "Application.Lab006_Dicreament.executor": "Run",
+    "Application.Lab007_GradeCalculator.executor": "Run",
     "Application.Q001_AddTwoNumber.executor": "Run",
     "Application.Q001_Revision_12_Oct.executor": "Run",
     "Application.Q001_SumOfThreeNumber.executor": "Run",
@@ -62,13 +67,13 @@
     "onboarding.tips.debug.path": "C:/Users/HP/IdeaProjects/Shadab_Java/src/Main.java"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Lab006_Dicreament">
+  <component name="RunManager" selected="Application.Lab008_TriangleClassifier">
     <configuration name="Lab004_FindLargest3Ternary" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Task.ex_15_10_2024.Lab004_FindLargest3Ternary" />
+      <option name="MAIN_CLASS_NAME" value="Task.ex_15_10_24.Lab004_FindLargest3Ternary" />
       <module name="ATB9xJavaPrograme" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Task.ex_15_10_2024.*" />
+          <option name="PATTERN" value="Task.ex_15_10_24.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -77,11 +82,11 @@
       </method>
     </configuration>
     <configuration name="Lab005_Increament" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Task.ex_15_10_2024.Lab005_Increament" />
+      <option name="MAIN_CLASS_NAME" value="Task.ex_15_10_24.Lab005_Increament" />
       <module name="ATB9xJavaPrograme" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Task.ex_15_10_2024.*" />
+          <option name="PATTERN" value="Task.ex_15_10_24.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -90,11 +95,11 @@
       </method>
     </configuration>
     <configuration name="Lab006_Dicreament" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Task.ex_15_10_2024.Lab006_Dicreament" />
+      <option name="MAIN_CLASS_NAME" value="Task.ex_15_10_24.Lab006_Dicreament" />
       <module name="ATB9xJavaPrograme" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Task.ex_15_10_2024.*" />
+          <option name="PATTERN" value="Task.ex_15_10_24.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -102,12 +107,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ex_005_findProfitAndLoss" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="If_Else.ex_005_findProfitAndLoss" />
-      <module name="PhysicsWallahJavaPrograming" />
+    <configuration name="Lab007_GradeCalculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Task.ex_17_10_24.Lab007_GradeCalculator" />
+      <module name="ATB9xJavaPrograme" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="If_Else.*" />
+          <option name="PATTERN" value="Task.ex_17_10_24.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -115,12 +120,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ex_006_ariaOfRectangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="If_Else.ex_006_ariaOfRectangle" />
-      <module name="PhysicsWallahJavaPrograming" />
+    <configuration name="Lab008_TriangleClassifier" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Task.ex_17_10_24.Lab008_TriangleClassifier" />
+      <module name="ATB9xJavaPrograme" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="If_Else.*" />
+          <option name="PATTERN" value="Task.ex_17_10_24.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -143,11 +148,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Lab008_TriangleClassifier" />
+        <item itemvalue="Application.Lab007_GradeCalculator" />
+        <item itemvalue="Application.Lab004_FindLargest3Ternary" />
         <item itemvalue="Application.Lab006_Dicreament" />
         <item itemvalue="Application.Lab005_Increament" />
-        <item itemvalue="Application.Lab004_FindLargest3Ternary" />
-        <item itemvalue="Application.ex_006_ariaOfRectangle" />
-        <item itemvalue="Application.ex_005_findProfitAndLoss" />
       </list>
     </recent_temporary>
   </component>
@@ -184,13 +189,22 @@
       <option name="project" value="LOCAL" />
       <updated>1729025886117</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="15 Oct 2024 Task prob">
+      <option name="closed" value="true" />
+      <created>1729027911284</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1729027911284</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="12 Oct 2024" />
     <MESSAGE value="12 Oct 2024 Interview Questions practice" />
     <MESSAGE value="15 Oct 2024 Interview Questions practice" />
-    <option name="LAST_COMMIT_MESSAGE" value="15 Oct 2024 Interview Questions practice" />
+    <MESSAGE value="15 Oct 2024 Task prob" />
+    <option name="LAST_COMMIT_MESSAGE" value="15 Oct 2024 Task prob" />
   </component>
 </project>
