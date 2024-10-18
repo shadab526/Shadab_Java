@@ -5,21 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="356cb5cd-5c88-46b8-9589-92e07b2ce61f" name="Changes" comment="17 Oct 2024 Shadab Personal">
-      <change afterPath="$PROJECT_DIR$/../PhysicsWallahJavaPrograming/src/Loops/ForLoops/ex001_Print_n_number.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PhysicsWallahJavaPrograming/src/Loops/ForLoops/ex003_ReverseNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PhysicsWallahJavaPrograming/src/Loops/ForLoops/ex004_ReverseBy2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PhysicsWallahJavaPrograming/src/Loops/ForLoops/ex005_NumberMultiply2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PhysicsWallahJavaPrograming/src/Loops/WhileLoops/ex003_reverseNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PhysicsWallahJavaPrograming/src/Loops/WhileLoops/ex004_ReverseBy2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PhysicsWallahJavaPrograming/src/Loops/WhileLoops/ex005_NumberMultiply2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ATB9xJavaPrograme/src/Task/ex_15_10_24/Lab006_Dicreament.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ATB9xJavaPrograme/src/Task/ex_15_10_24/Lab006_Decrement.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ATB9xJavaPrograme/src/Task/ex_17_10_24/Lab007_GradeCalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ATB9xJavaPrograme/src/Task/ex_17_10_24/Lab007_GradeCalculator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PhysicsWallahJavaPrograming/src/Loops/ForLoops/Ex_001_SumOfNatualNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/../PhysicsWallahJavaPrograming/src/Loops/ForLoops/ex002_SumOfNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PhysicsWallahJavaPrograming/src/Loops/WhileLoops/Ex_001_PrintNatural.java" beforeDir="false" afterPath="$PROJECT_DIR$/../PhysicsWallahJavaPrograming/src/Loops/WhileLoops/ex001_PrintNatural.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PhysicsWallahJavaPrograming/src/Loops/WhileLoops/Ex_002_SumOfNaturalNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/../PhysicsWallahJavaPrograming/src/Loops/WhileLoops/ex002_SumOfNaturalNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ATB9xJavaPrograme/src/Task/ex_17_10_24/Lab008_TriangleClassifier.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ATB9xJavaPrograme/src/Task/ex_17_10_24/Lab008_TriangleClassifier.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java_Practice/ex_12_Oct_2024/Q002_SumOfThreeNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java_Practice/ex_12_Oct_2024/Q002_SumOfThreeNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java_Practice/ex_14_Oct_2024/Q009.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java_Practice/ex_14_Oct_2024/Q009_MinusOfThreeNumber.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -87,9 +74,22 @@
     "onboarding.tips.debug.path": "C:/Users/HP/IdeaProjects/Shadab_Java/src/Main.java"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Lab007_GradeCalculator">
+  <component name="RunManager" selected="Application.Lab008_TriangleClassifier">
     <configuration name="Lab007_GradeCalculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Task.ex_17_10_24.Lab007_GradeCalculator" />
+      <module name="ATB9xJavaPrograme" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Task.ex_17_10_24.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lab008_TriangleClassifier" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Task.ex_17_10_24.Lab008_TriangleClassifier" />
       <module name="ATB9xJavaPrograme" />
       <extension name="coverage">
         <pattern>
@@ -127,19 +127,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ex003_reverseNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Loops.WhileLoops.ex003_reverseNumber" />
-      <module name="PhysicsWallahJavaPrograming" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Loops.WhileLoops.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="ex005_NumberMultiply2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Loops.WhileLoops.ex005_NumberMultiply2" />
       <module name="PhysicsWallahJavaPrograming" />
@@ -168,11 +155,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Lab008_TriangleClassifier" />
         <item itemvalue="Application.Lab007_GradeCalculator" />
         <item itemvalue="Application.Q009_MinusOfThreeNumber" />
         <item itemvalue="Application.ex001_Print_n_number" />
         <item itemvalue="Application.ex005_NumberMultiply2" />
-        <item itemvalue="Application.ex003_reverseNumber" />
       </list>
     </recent_temporary>
   </component>
@@ -233,7 +220,15 @@
       <option name="project" value="LOCAL" />
       <updated>1729201319378</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="17 Oct 2024 Shadab Personal">
+      <option name="closed" value="true" />
+      <created>1729212279124</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1729212279124</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
