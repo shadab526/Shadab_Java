@@ -4,11 +4,28 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="356cb5cd-5c88-46b8-9589-92e07b2ce61f" name="Changes" comment="17 Oct 2024 Task Correction">
-      <change afterPath="$PROJECT_DIR$/../ATB9xJavaPrograme/src/Task/ex_18_10_24/Lab009_simpleCalculatorUsingSwitch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ATB9xJavaPrograme/src/Task/ex_18_10_24/Lab010_printMonthUsingSwitch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ATB9xJavaPrograme/src/Task/ex_18_10_24/Lab011_convertKMtoMiles.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ATB9xJavaPrograme/src/Task/ex_18_10_24/Lab012_BasicCalculator.java" afterDir="false" />
+    <list default="true" id="356cb5cd-5c88-46b8-9589-92e07b2ce61f" name="Changes" comment="18 Oct 2024 Task">
+      <change afterPath="$PROJECT_DIR$/../ATB9xJavaPrograme/src/Task/ex_21_10_24_Loops/Lab001.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ATB9xJavaPrograme/src/Task/ex_21_10_24_Loops/Lab002.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ATB9xJavaPrograme/src/Task/ex_21_10_24_Loops/Lab003.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ATB9xJavaPrograme/src/Task/ex_21_10_24_Loops/Lab004.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ATB9xJavaPrograme/src/Task/ex_21_10_24_Loops/Lab005.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ATB9xJavaPrograme/src/Task/ex_21_10_24_Loops/Lab006.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ATB9xJavaPrograme/src/Task/ex_21_10_24_Loops/Lab007.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ATB9xJavaPrograme/src/Task/ex_21_10_24_Loops/Lab012.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ATB9xJavaPrograme/src/Task/ex_21_10_24_Loops/Lab013.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ATB9xJavaPrograme/src/Task/ex_21_10_24_Loops/Lab014.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ATB9xJavaPrograme/src/Task/ex_21_10_24_Loops/Lab015.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ATB9xJavaPrograme/src/Task/ex_21_10_24_Loops/Lab016.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ATB9xJavaPrograme/src/Task/ex_21_10_24_Loops/Lab017.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ATB9xJavaPrograme/src/Task/ex_21_10_24_Loops/Lab018.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ATB9xJavaPrograme/src/Task/ex_21_10_24_Loops/Lab019.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ATB9xJavaPrograme/src/Task/ex_21_10_24_Loops/lab008.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ATB9xJavaPrograme/src/Task/ex_21_10_24_Loops/lab009.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ATB9xJavaPrograme/src/Task/ex_21_10_24_Loops/lab010.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ATB9xJavaPrograme/src/Task/ex_21_10_24_Loops/lab011.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java_Practice/switchCase/ex001.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PhysicsWallahJavaPrograming/src/BasicsOfJava/Ex_001_Basic.java" beforeDir="false" afterPath="$PROJECT_DIR$/../PhysicsWallahJavaPrograming/src/BasicsOfJava/Ex_001_Basic.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -39,16 +56,32 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Ex_001_Basic.executor": "Run",
     "Application.Ex_001_SumOfNatualNumber.executor": "Run",
+    "Application.Lab001.executor": "Run",
+    "Application.Lab002.executor": "Run",
+    "Application.Lab003.executor": "Run",
+    "Application.Lab004.executor": "Run",
     "Application.Lab004_FindLargest3Ternary.executor": "Run",
+    "Application.Lab005.executor": "Run",
     "Application.Lab005_Increament.executor": "Run",
+    "Application.Lab006.executor": "Run",
     "Application.Lab006_Dicreament.executor": "Run",
+    "Application.Lab007.executor": "Run",
     "Application.Lab007_GradeCalculator.executor": "Run",
     "Application.Lab008_TriangleClassifier.executor": "Run",
     "Application.Lab009_simpleCalculatorUsingSwitch.executor": "Run",
     "Application.Lab010_printMonthUsingSwitch.executor": "Run",
     "Application.Lab011_convertKMtoMiles.executor": "Run",
+    "Application.Lab012.executor": "Run",
     "Application.Lab012_BasicCalculator.executor": "Run",
+    "Application.Lab013.executor": "Run",
+    "Application.Lab014.executor": "Run",
+    "Application.Lab015.executor": "Run",
+    "Application.Lab016.executor": "Run",
+    "Application.Lab017.executor": "Run",
+    "Application.Lab018.executor": "Run",
+    "Application.Lab019.executor": "Run",
     "Application.Q001_AddTwoNumber.executor": "Run",
     "Application.Q001_Revision_12_Oct.executor": "Run",
     "Application.Q001_SumOfThreeNumber.executor": "Run",
@@ -60,6 +93,7 @@
     "Application.Q007_Revision.executor": "Run",
     "Application.Q009.executor": "Run",
     "Application.Q009_MinusOfThreeNumber.executor": "Debug",
+    "Application.ex001.executor": "Run",
     "Application.ex_001_EvenOrOdd.executor": "Run",
     "Application.ex_002_DivisibleBy5.executor": "Run",
     "Application.ex_002_Print_n_number.executor": "Run",
@@ -73,6 +107,10 @@
     "Application.ex_005_NumberMultiply2.executor": "Run",
     "Application.ex_005_findProfitAndLoss.executor": "Run",
     "Application.ex_006_ariaOfRectangle.executor": "Run",
+    "Application.lab008.executor": "Run",
+    "Application.lab009.executor": "Run",
+    "Application.lab010.executor": "Run",
+    "Application.lab011.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
@@ -81,13 +119,13 @@
     "onboarding.tips.debug.path": "C:/Users/HP/IdeaProjects/Shadab_Java/src/Main.java"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Lab012_BasicCalculator">
-    <configuration name="Lab008_TriangleClassifier" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Task.ex_17_10_24.Lab008_TriangleClassifier" />
+  <component name="RunManager" selected="Application.Lab019">
+    <configuration name="Lab015" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Task.ex_21_10_24_Loops.Lab015" />
       <module name="ATB9xJavaPrograme" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Task.ex_17_10_24.*" />
+          <option name="PATTERN" value="Task.ex_21_10_24_Loops.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -95,12 +133,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab009_simpleCalculatorUsingSwitch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Task.ex_18_10_24.Lab009_simpleCalculatorUsingSwitch" />
+    <configuration name="Lab016" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Task.ex_21_10_24_Loops.Lab016" />
       <module name="ATB9xJavaPrograme" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Task.ex_18_10_24.*" />
+          <option name="PATTERN" value="Task.ex_21_10_24_Loops.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -108,12 +146,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab010_printMonthUsingSwitch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Task.ex_18_10_24.Lab010_printMonthUsingSwitch" />
+    <configuration name="Lab017" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Task.ex_21_10_24_Loops.Lab017" />
       <module name="ATB9xJavaPrograme" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Task.ex_18_10_24.*" />
+          <option name="PATTERN" value="Task.ex_21_10_24_Loops.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -121,12 +159,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab011_convertKMtoMiles" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Task.ex_18_10_24.Lab011_convertKMtoMiles" />
+    <configuration name="Lab018" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Task.ex_21_10_24_Loops.Lab018" />
       <module name="ATB9xJavaPrograme" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Task.ex_18_10_24.*" />
+          <option name="PATTERN" value="Task.ex_21_10_24_Loops.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -134,12 +172,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab012_BasicCalculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Task.ex_18_10_24.Lab012_BasicCalculator" />
+    <configuration name="Lab019" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Task.ex_21_10_24_Loops.Lab019" />
       <module name="ATB9xJavaPrograme" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Task.ex_18_10_24.*" />
+          <option name="PATTERN" value="Task.ex_21_10_24_Loops.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -162,11 +200,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Lab012_BasicCalculator" />
-        <item itemvalue="Application.Lab011_convertKMtoMiles" />
-        <item itemvalue="Application.Lab010_printMonthUsingSwitch" />
-        <item itemvalue="Application.Lab009_simpleCalculatorUsingSwitch" />
-        <item itemvalue="Application.Lab008_TriangleClassifier" />
+        <item itemvalue="Application.Lab019" />
+        <item itemvalue="Application.Lab018" />
+        <item itemvalue="Application.Lab017" />
+        <item itemvalue="Application.Lab016" />
+        <item itemvalue="Application.Lab015" />
       </list>
     </recent_temporary>
   </component>
@@ -243,7 +281,15 @@
       <option name="project" value="LOCAL" />
       <updated>1729216127383</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="18 Oct 2024 Task">
+      <option name="closed" value="true" />
+      <created>1729454074516</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1729454074516</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -254,6 +300,7 @@
     <MESSAGE value="17 Oct 2024 Task prob" />
     <MESSAGE value="17 Oct 2024 Shadab Personal" />
     <MESSAGE value="17 Oct 2024 Task Correction" />
-    <option name="LAST_COMMIT_MESSAGE" value="17 Oct 2024 Task Correction" />
+    <MESSAGE value="18 Oct 2024 Task" />
+    <option name="LAST_COMMIT_MESSAGE" value="18 Oct 2024 Task" />
   </component>
 </project>
