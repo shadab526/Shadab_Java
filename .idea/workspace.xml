@@ -4,28 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="356cb5cd-5c88-46b8-9589-92e07b2ce61f" name="Changes" comment="18 Oct 2024 Task">
-      <change afterPath="$PROJECT_DIR$/../ATB9xJavaPrograme/src/Task/ex_21_10_24_Loops/Lab001.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ATB9xJavaPrograme/src/Task/ex_21_10_24_Loops/Lab002.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ATB9xJavaPrograme/src/Task/ex_21_10_24_Loops/Lab003.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ATB9xJavaPrograme/src/Task/ex_21_10_24_Loops/Lab004.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ATB9xJavaPrograme/src/Task/ex_21_10_24_Loops/Lab005.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ATB9xJavaPrograme/src/Task/ex_21_10_24_Loops/Lab006.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ATB9xJavaPrograme/src/Task/ex_21_10_24_Loops/Lab007.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ATB9xJavaPrograme/src/Task/ex_21_10_24_Loops/Lab012.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ATB9xJavaPrograme/src/Task/ex_21_10_24_Loops/Lab013.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ATB9xJavaPrograme/src/Task/ex_21_10_24_Loops/Lab014.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ATB9xJavaPrograme/src/Task/ex_21_10_24_Loops/Lab015.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ATB9xJavaPrograme/src/Task/ex_21_10_24_Loops/Lab016.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ATB9xJavaPrograme/src/Task/ex_21_10_24_Loops/Lab017.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ATB9xJavaPrograme/src/Task/ex_21_10_24_Loops/Lab018.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ATB9xJavaPrograme/src/Task/ex_21_10_24_Loops/Lab019.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ATB9xJavaPrograme/src/Task/ex_21_10_24_Loops/lab008.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ATB9xJavaPrograme/src/Task/ex_21_10_24_Loops/lab009.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ATB9xJavaPrograme/src/Task/ex_21_10_24_Loops/lab010.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ATB9xJavaPrograme/src/Task/ex_21_10_24_Loops/lab011.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java_Practice/switchCase/ex001.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PhysicsWallahJavaPrograming/src/BasicsOfJava/Ex_001_Basic.java" beforeDir="false" afterPath="$PROJECT_DIR$/../PhysicsWallahJavaPrograming/src/BasicsOfJava/Ex_001_Basic.java" afterDir="false" />
+    <list default="true" id="356cb5cd-5c88-46b8-9589-92e07b2ce61f" name="Changes" comment="21 Oct 2024 Task">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -289,7 +268,15 @@
       <option name="project" value="LOCAL" />
       <updated>1729454074516</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="21 Oct 2024 Task">
+      <option name="closed" value="true" />
+      <created>1729553078520</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1729553078520</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -301,6 +288,7 @@
     <MESSAGE value="17 Oct 2024 Shadab Personal" />
     <MESSAGE value="17 Oct 2024 Task Correction" />
     <MESSAGE value="18 Oct 2024 Task" />
-    <option name="LAST_COMMIT_MESSAGE" value="18 Oct 2024 Task" />
+    <MESSAGE value="21 Oct 2024 Task" />
+    <option name="LAST_COMMIT_MESSAGE" value="21 Oct 2024 Task" />
   </component>
 </project>
